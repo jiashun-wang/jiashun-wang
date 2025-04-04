@@ -1,4 +1,6 @@
-## Hey 👋, I'm Jiashun Wang (王佳顺)!  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Jiashun+Wang" />
+</h1>
   
 
 <a href="https://github.com/jiashun-wang" target="_blank">
