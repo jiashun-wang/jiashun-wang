@@ -23,9 +23,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer 
-
-I specialize in 
+I have a master of science degree in Marine Science completed through a joint program between Harbin Engineering University and the First Institute of Oceanography. My research focuses on Physical Oceanography, and I am currently conducting studies on the Indonesian seas and marine heatwaves utilizing the resources at the First Institute of Oceanography.
   
 
 <br/>  
